@@ -1,7 +1,7 @@
 #  Coding Practice  
 
 Welcome to my little coding gym.  
-This repo is just me logging consistency — from `hello world` to less dumb stuff.  
+This repo is just me logging consistency, from `hello world` to less dumb stuff.  
 
 ##  Why this repo?  
 - Track my learning progress  
